@@ -5,7 +5,9 @@
 - <b> DataBases </b>
   - [Image Analysis Middleware](https://github.com/KuzuCR/DataBaseLabs) 
 - <b>Python</b>
-  - [SNHU IT 140 Python intro to scripting Projects)](https://github.com/KuzuCR/PythonLab )
+  - [SNHU IT 140 Python intro to scripting Projects)](https://github.com/KuzuCR/PythonLab)
+- <b>Active Directory Home Lab</b>
+  - [Active Directory Projects](https://github.com/KuzuCR/Active-Directory-Home-Lab)    
 
 
 <h2>👨‍💻 Certifications:</h2>
