@@ -3,7 +3,7 @@
 <h2>👨‍💻 Computer Science, and IT Projects:</h2>
 
 - <b> DataBases </b>
-  - [Image Analysis Middleware](https://github.com/KuzuCR/DataBaseLabs) 
+  - [SNHU DAD 220 DataBases](https://github.com/KuzuCR/DataBaseLabs) 
 - <b>Python</b>
   - [SNHU IT 140 Python intro to scripting Projects)](https://github.com/KuzuCR/PythonLab)
 - <b>Active Directory Home Lab</b>
