@@ -3,9 +3,9 @@
 <h2>👨‍💻 Computer Science, and IT Projects:</h2>
 
 - <b> DataBases </b>
-  - [Image Analysis Middleware]( ) 
+  - [Image Analysis Middleware](https://github.com/KuzuCR/DataBaseLabs) 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]( )
+  - [SNHU IT 140 Python intro to scripting Projects)](https://github.com/KuzuCR/PythonLab )
 
 
 <h2>👨‍💻 Certifications:</h2>
