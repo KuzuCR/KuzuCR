@@ -32,6 +32,6 @@
 - 👯 I’m looking to collaborate on ... Open-source projects that improve IT support tools or automation.
 - 🤔 I’m looking for help with ... Gaining hands-on experience with IT support systems like Active Directory and Intune.
 - 💬 Ask me about ... My journey in IT, CompTIA A+, and Google IT Support certifications.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gustavo-colonrivera-4775aa89/) | Email: gustavo@example.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gustavo-colonrivera-4775aa89/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Besides IT, I'm into anime, gaming, reading manga, and learning more about the tech field!
